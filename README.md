@@ -18,3 +18,4 @@ Para correr este proyecto, simplemente sigue los siguientes pasos:
 ```
 terraform plan -destroy -out main.destroy.tfplan.
 ```
+## Validación
