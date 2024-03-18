@@ -19,3 +19,4 @@ Para correr este proyecto, simplemente sigue los siguientes pasos:
 terraform plan -destroy -out main.destroy.tfplan.
 ```
 ## Validación
+![sss](https://github.com/duvanovik/vm-tf/assets/42594511/df6ce1f6-ea3e-4d7c-afe1-88f6a0b6e509)
